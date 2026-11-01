@@ -83,7 +83,7 @@ The table below lists leading commercial SaaS platforms and enterprise incident 
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source intelligence trackers, decryptor archives, threat matrix databases, and memory recovery frameworks, strictly ordered by **GitHub Stars_Count (descending)**:
+Curated open-source intelligence trackers, decryptor archives, threat matrix databases, and memory recovery frameworks, strictly ordered by **GitHub_Stars_Count (descending)**:
 
 | Project | GitHub_Stars | Focus Area | Description & Direct Links |
 | :--- | :--- | :--- | :--- |
